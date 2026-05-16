@@ -1,0 +1,15 @@
+export default {
+  primary: '#4ABAA3',
+  primaryDark: '#3A9A86',
+  white: '#FFFFFF',
+  black: '#1A1A1A',
+  text: '#333333',
+  textLight: '#888888',
+  border: '#E0E0E0',
+  background: '#F5F5F5',
+  cardBg: '#FFFFFF',
+  inputBg: '#FFFFFF',
+  error: '#D32F2F',
+  tagBorder: '#CCCCCC',
+  dateGreen: '#4ABAA3',
+};
